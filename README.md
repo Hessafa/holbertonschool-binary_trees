@@ -53,7 +53,10 @@ The GIF above shows how elements from a sorted array are inserted into the BST. 
 
 
 ##  <img src="https://img.icons8.com/ios/452/github.png" width="30"/> Authors: 
-
+We Worked together to implement, test, and document. Each member did contribute to code, debug, and analyze time complexities.
+<br> 
+<br>
+<br>
 [![GitHub](https://img.shields.io/badge/GitHub-Hessah_Alotaysh-lightpink)](https://github.com/hessafa)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Maram_Alsofyani-lightpink)](https://github.com/maram-ra)
